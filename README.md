@@ -5,7 +5,7 @@ It dynamically calculates and displays the total project cost, with data securel
 ### Project Overview
 A video demonstration is provided to guide viewers through the entire project workflow. It explains how to access and navigate the project, showcasing each step involved in the process.(Recording.mp4)
 
-
+**NOTE:** Username must be in gmail format like (abc@abc.com,fdg@abc.com etc.,)
 
 ## 📁 Project Structure
 
@@ -58,6 +58,11 @@ project-cost-tracker/
 
 ## **Firebase Images**
 ![Screenshot 2025-05-23 144114](https://github.com/user-attachments/assets/7c3b8c67-c0f1-4452-8a32-ec45270d6b73)
+
+**After adding new User**
+![Screenshot 2025-05-23 145917](https://github.com/user-attachments/assets/48930627-a867-4ab7-a648-5244c3d8eb90)
+
 ![image](https://github.com/user-attachments/assets/a701431a-7559-45db-94ab-8d25a3699404)
+
 
 
