@@ -3,7 +3,7 @@
 It dynamically calculates and displays the total project cost, with data securely stored in Firebase Firestore under each user account.
 
 ### Project Overview
-A video demonstration is provided to guide viewers through the entire project workflow. It explains how to access and navigate the project, showcasing each step involved in the process.(firebase_recording)
+A video demonstration is provided to guide viewers through the entire project workflow. It explains how to access and navigate the project, showcasing each step involved in the process.(Recording.mp4)
 
 
 
